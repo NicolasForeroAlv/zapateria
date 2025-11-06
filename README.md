@@ -1,10 +1,7 @@
 # Zapatería App - Proyecto adaptado
 
-## Integrantes y roles
-- [Nombre 1] - Backend Developer
-- [Nombre 2] - Frontend Developer
-- [Nombre 3] - Tester
-- [Nombre 4] - Gestor de Calidad
+## Integrantes
+Johan Garzon - Nicolas Forero
 
 ## Dependencias principales
 - Node.js, npm
