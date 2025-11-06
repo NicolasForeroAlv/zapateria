@@ -1,0 +1,11 @@
+{
+  "cart": [
+    {
+      "id": "p1001",
+      "name": "Sneaker Azul",
+      "price": 129900,
+      "quantity": 1
+    }
+  ],
+  "products": []
+}
